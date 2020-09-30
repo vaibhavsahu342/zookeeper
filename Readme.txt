@@ -1,1 +1,1 @@
-Pratice makign pr
+Printing animals figure according to array index
