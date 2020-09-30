@@ -128,7 +128,7 @@ controller = 0  # Controller for controlling the loop
 while controller == 0:  #Loop execution starts
    habitat = input('Which habitat # do you need? >')  # Storing the user input for habitat
    if habitat == 'exit':  # For exitting the program
-      print('See you!')
+      print('See you again!')
       controller = 1
    elif int(habitat) == 0:  # For camel
       print(animals[0])
